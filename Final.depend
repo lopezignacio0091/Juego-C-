@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1594087720 source:c:\users\juani.lopez\documents\c c++\prueba\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1594088832 c:\users\juani.lopez\documents\c c++\prueba\inicia.h
+
+1596659311 source:c:\users\juani.lopez\documents\c c++\prueba\main.cpp
+	<iostream>
+	<allegro.h>
+	<Juego.h>
+	<inicia.h>
+
+1596663306 c:\users\juani.lopez\documents\c c++\prueba\include\juego.h
+	<allegro.h>
+	<Nave.h>
+
+1596655817 c:\users\juani.lopez\documents\c c++\prueba\include\nave.h
+	<allegro.h>
+
+1594088984 source:c:\users\juani.lopez\documents\c c++\prueba\src\inicia.cpp
+	"Inicia.h"
+	<allegro.h>
+
+1594088993 c:\users\juani.lopez\documents\c c++\prueba\include\inicia.h
+
+1596724871 source:c:\users\juani.lopez\documents\c c++\prueba\src\nave.cpp
+	"Nave.h"
+	"Juego.h"
+	<cmath>
+
+1596724778 source:c:\users\juani.lopez\documents\c c++\prueba\src\juego.cpp
+	"Juego.h"
+	"Nave.h"
+	"Inicia.h"
+	<allegro.h>
+	<cmath>
+
